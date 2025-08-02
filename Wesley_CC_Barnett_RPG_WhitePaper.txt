@@ -12,7 +12,7 @@ License Notice
 You are free to use, modify, and redistribute this material, provided that all derived versions are also distributed under the same license.
 Author: Wesley C.C. Barnett
 Release Date: 2025-07-16
-Source Repository: [To be provided]
+Source Repository: https://github.com/MungSauce/RPG-A-viable-Energy-solution/edit/main/Wesley_CC_Barnett_RPG_WhitePaper.txt
 Document Hash (SHA256): 9740bfeea277d8494218e6635b9841b5f37957e04f777993fb763f933dc672dc
 
 
