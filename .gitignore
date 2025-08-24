@@ -1,0 +1,43 @@
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Temporary files
+*.tmp
+*~
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Simulation data
+*.dat
+*.csv
+simulation_output/
+results/
+
+# Documentation builds
+docs/_build/
+*.pdf
+
+# Development temporary files
+/tmp/
+temp/
+scratch/
+
+# Wolfram Language files (when added)
+*.nb.bak
+*.wl.bak
+
+# Any personal notes or drafts
+notes/
+drafts/
+personal/
