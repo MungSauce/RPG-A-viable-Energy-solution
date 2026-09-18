@@ -18,6 +18,7 @@ This repository is part of an open call for experimental replication and theoret
 ## Contents
 
 - `Wesley_CC_Barnett_RPG_WhitePaper.txt`: Full technical whitepaper
+- `innovations/`: Directory containing RPG-inspired technological innovations
 - [Coming Soon] `.nb` or `.wl` files for simulations
 
 ---
@@ -40,6 +41,20 @@ This repository is part of an open call for experimental replication and theoret
 
 ---
 
+## RPG-Inspired Innovations
+
+The `innovations/` directory contains five additional technologies that extend RPG principles into different physical domains:
+
+- **AREH**: Acoustic Resonance Energy Harvester - Sound wave energy through crystalline resonance
+- **TGPG**: Thermal Gradient Pulse Generator - Temperature differential energy through thermal cycling  
+- **PVC**: Photonic Vortex Concentrator - Light energy through optical vortex manipulation
+- **PFO**: Plasma Field Oscillator - Ionic/plasma energy through controlled plasma dynamics
+- **QRA**: Quantum Resonance Amplifier - Quantum energy through room-temperature quantum effects
+
+These innovations can operate independently or in hybrid configurations for multi-modal environmental energy harvesting.
+
+---
+
 ## Contribute
 
 You're invited to:
@@ -49,6 +64,8 @@ You're invited to:
 - Improve the design
 - Critique the theory
 - Fork the project and share your version
+- **Explore the innovations directory** for RPG-inspired technologies
+- **Develop hybrid multi-modal energy systems** combining multiple approaches
 
 ---
 
